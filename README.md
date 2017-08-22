@@ -1,3 +1,3 @@
 # jianchi-util
-日常积累的一些工具
-https://github.com/javaee/javamail
+有用的一些工具
+邮件 工具 https://github.com/javaee/javamail
